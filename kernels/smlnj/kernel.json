@@ -1,6 +1,0 @@
-{
-  "display_name": "SML/NJ",
-  "language": "smlnj",
-  "argv": ["python", "/root/sml/smlnjkernel.py", "-f", "{connection_file}"],
-  "codemirror_mode": "scheme"
-}
