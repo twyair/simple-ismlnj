@@ -20,3 +20,5 @@ jupyter notebook
 ```
 
 in the browser create an SML/NJ notebook
+
+![](preview.gif)
